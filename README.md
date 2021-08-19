@@ -1,1 +1,1 @@
-shell basics project
+A repository covering the shell basics projecta nd theshell permissions.
